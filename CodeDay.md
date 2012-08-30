@@ -266,7 +266,31 @@ In addition to getting speakers for the workshops, you'll also need someone to g
 
 Judges
 ------
-TBD
+CodeDay is a competition, and a competition needs winners. A expert panel of judges goes a long way to boosting the legitimacy of the competition, and helps participants feel like they were treated fairly.
+
+Judging panels at CodeDay are usually 3-5 people. Additionally, a volunteer usually sits in on the deliberation, to help the judges understand the criteria and to help where they may have questions. (Judging is covered in more detail later.)
+
+Being a judge requires much less commitment than being a speaker, so you may have more success in getting highly qualified people.
+
+The conversation with a potential judge should follow much the same format as with a potential speaker, except that you should stress the small time commitment necessary.
+
+If you are having difficulty locating judges, you can ask speakers if they would be interested.
+
+The following is an example of a confirmation email for a judge:
+
+    Hey [name],
+
+    I wanted to thank you again for agreeing to judge at CodeDay, a
+    hackathon for high school and college students. As a reminder, the
+    judging will be at [location] on [date] at [time]. Does that still
+    work for you?
+
+    You don't need to do any work beforehand, we will have instructions for
+    you when you arrive.
+
+    Thanks!
+    [name]
+    CodeDay [city] Organizer
 
 Sponsorships
 ------------
