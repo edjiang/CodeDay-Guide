@@ -98,7 +98,7 @@ This sort of thinking might make sense if you're a doctor, or a bridge-builder, 
 > "I don't know how to do something, but I can learn."
 
 
-3-Months Out: Contact Businesses
+3 Months Out: Contact Businesses
 ================================
 
 Meta
@@ -327,18 +327,13 @@ The Budget
 
 **TBD: Ed/Adam**
 
-2-Months Out: Promotion, Promotion, Promotion
-=============================================
-TBD
 
-
-
-1-Month Out: Planning and More Promotion
+1-2 Months Out: Planning and More Promotion
 ========================================
 
 Promotion
 ---------
-TBD
+By now you should have a fair number of speakers and sponsors lined up. Promote this! Especially if this is your first CodeDay, having professionals and companies on board gives the event more legitimacy.
 
 Food
 ----
@@ -346,7 +341,25 @@ TBD
 
 Infrastructure
 --------------
-TBD
+**Wifi**
+
+You should never need to buy Wifi access points; even if you don't have spares, someone you know probably does. (Worst case, you can get them for ~$5 at a local thrift store.) These do not need to be good, they just need to work.
+
+Track down and, if needed, get a commitment to let you borrow, at least one wifi router per 25 people at the event. People being unable to get on the internet is bad. People being unable to share files locally is *terrible*.
+
+**Ethernet**
+
+There are always a few people who bring desktops to CodeDay, and there's a good chance those desktops won't have wifi cards.
+
+We recommend setting up an area of the space for people needing wired connections. (If you're extremely lucky, your venue might have a lot of jacks already, in which case this point isn't relevant.)
+
+Don't go overboard, though. In the past we've tried to provide ethernet to every participant, and in addition to being a nightmare to set up, few people used it.
+
+Count on borrowing a 16-port switch, or be very clear in your marketing that wifi is required.
+
+**Server**
+
+Find a computer with some extra space which won't be missed during the event. You'll want to set it up to run some servers in the coming weeks.
 
 Logistics
 ---------
@@ -354,10 +367,28 @@ TBD
 
 One Week Out: Get It Together
 =============================
-TBD
+**Server**
 
-Night Before: Setup
-===================
+Set up a file sharing server. The reasoning for this is two-fold:
+
+  1. Some participants will have an aversion to source control.
+  2. No matter how many times you warn them, almost everyone comes in missing their IDE of choice.
+
+As a result of number 2, you'll want to download commonly used programs onto the server. Some we've noticed a need for in the past:
+
+  * X-Code
+  * Visual Studio 2010, and all the patches
+  * XNA 4.0, and all the patches
+  * Corona
+  * Construct
+  * GameMaker
+  * pygame
+  * **TBD: Others?**
+
+If you fail in this step, your network **WILL** go down for the first few hours as everyone attempts to download the tools they need.
+
+Day Before: Collection and Setup
+=================================
 TBD
 
 Day Of
