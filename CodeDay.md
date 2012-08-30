@@ -1,5 +1,5 @@
 Foreword
-===
+========
 
 You know what the worst part of being a student programmer is?
 
@@ -294,10 +294,38 @@ The following is an example of a confirmation email for a judge:
 
 Sponsorships
 ------------
-TBD
+As resourceful as organizers are, CodeDay events are not *entirely* free to run.
+
+Sponsors make for awesome CodeDay events. While they're commonly seen as a way of getting giveaway prizes (and they often do donate prizes), sponsors of CodeDay have also donated money, food, the venue (see previous section) and people (volunteers/judges/speakers).
+
+When speaking with a business about sponsorship, you have to keep in mind that, while the employees may care about what you're doing, the business cares only about money.
+
+The trick to landing a sponsorship is to convince them that not only is it the right thing to do, but it's also an *investment*. In most cases this is that the attendees are a potential talent pool for the company, but some companies might also be interested in extending their popularity among college and high school students (e.g. energy drink companies, social networks), or getting new developers to use their platform (i.e. any company which has a "developer evangelist").
+
+When companies consider a sponsorship request, it's usually on the following basis:
+
+  1. *Do they have the money?* Targeting extremely fresh startups is probably not worth the time.
+  2. *Will this succees?* Luckly, CodeDay events already have a track-record of success, but it may still take some convincing that it will succeed in your city.
+  3. *How big is the event?* More people almost always leads to more interest.
+
+
+Who can you ask for sponsorship? Everyone! In the past, CodeDays have been sponsored by:
+
+  * Large social networks
+  * Large game studios
+  * Tech Stores
+  * Source Control companies
+  * Game development framework companies
+  * Small startups
+
+The best way to get sponsorships is to find connections in your network to local companies with some relation to tech. Again, warm introductions are ideal, but cold calling is better than nothing, and works more than you might think.
+
+**TBD: Ed**
 
 The Budget
 ----------
+
+**TBD: Ed/Adam**
 
 2-Months Out: Promotion, Promotion, Promotion
 =============================================
