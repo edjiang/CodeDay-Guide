@@ -39,6 +39,36 @@ So, you've read the foreword and you're still interested in hosting a CodeDay? A
 4. Gain experience organizing events.
 5. People will love you. You will become famous*.
 
+CodeDay Format
+--------------
+* At CodeDay, students pitch ideas, form teams, then build a cool app or game in 24 hours. 
+* CodeDay is a open-ended event. We value freedom and flexibility. Students are free to do what they want. 
+* CodeDay is a beginner-friendly event. We expect everyone to be open to learning on their own, and ask each other for questions. 
+* CodeDay is FUN. If it's not fun, it's not CodeDay. 
+* Tickets: $10 presale, $20 week of the event. 
+* Free food & drinks. 
+
+Schedule: Noon-Noon. 
+* 11AM: Venue opens
+* 12PM: Kickoff & Pitches
+* 1PM: Pizza & Form Teams
+* 7PM: Dinner
+* 12AM: Midnight Snack
+* 7AM: Breakfast
+* 9AM: Judges walk around
+* 10AM: Presentations
+* 11:30AM: Awards
+
+Prizes: 
+* Top Overall
+* Best Game
+* Best Mobile App
+* Best Web App
+* Most Creative
+* Most Useful
+* Most Innovative
+* Funniest Presentation
+
 What it Takes
 -------------
 
@@ -75,7 +105,7 @@ Philosophy of CodeDay
 ---------------------
 Most competitions targeted at students are about winning awards for a resume. In fact, companies often sponsor them as lead-gen for getting interns.
 
-CodeDay provides opportunities for students to do truly amazing things. Our events aren't about preparing to make something cool sometime in the future. **At CodeDays, students make amazing products.**
+CodeDay provides opportunities for students to do truly amazing things. Our events aren't about preparing to make something cool sometime in the future. **At CodeDays, students build amazing things.**
 
 About StudentRND
 -----------------
@@ -105,7 +135,19 @@ Meta
 ----
 The very first thing you'll actually need to do is contact StudentRND. We'll get the website set up, get you what resources we can, and connect you with anyone we know in the area.
 
+We'll also help you run the ticket sales page and directly pay the vendors. This makes your taxes and managing money easier! 
+
 You can reach us at contact@studentrnd.org. Once that's done, you can move on to the actual work.
+
+Volunteer Roles
+---------------
+Start a team of volunteers. You need to cover the following roles: 
+
+ * The leader
+ * The "day of" operations guy
+ * Marketing/PR junkie
+ * Sponsorships
+ * Mentor/Speaker recruiter
 
 The Date
 ---------
@@ -128,9 +170,9 @@ Unless you have your own location (like StudentRND does in Bellevue), you'll wan
 Unfortunately, getting the venue is the second most-difficult part of organizing your first CodeDay. The only way to go about it is to contact lots of them. Here are some suggestions:
 
   1. Co-working spaces and incubators/accelerators. They're usually the most flexible of any of the choices, and a good atmospheric fit.
-  2. Your school, if they're willing.
+  2. Startup offices
   3. Corporate event spaces. They often donate them.
-  4. Startup offices.
+  4. Your school. 
 
 Unless you can track down major sponsorship (and trying to do so is usually a waste of time), the venue needs to be free. So talking to conference centers and hotels is usually a waste of your time.
 
@@ -138,13 +180,13 @@ If you're using a space from a school, make sure there aren't any hidden fees, s
 
 All CodeDay venues need, at a minimum:
 
-  * Needs to be large. For 100 people, you need 3,500 sq. ft. to be comfortable. Remember, they'll have computers, keyboards, and mice (and probably a stack of empty soda cans).
+  * Needs to be large. For 100 people, you need 5,000 sq. ft. to be comfortable. Remember, they'll have computers, keyboards, and mice (and probably a stack of empty soda cans).
   * Needs to be somewhat open. If you give each team their own room, you are guarenteeing that no new connections will be made. (On the other hand, if you can, avoid having everyone in one big room. It gets loud.)
   * Fast and reliable internet. (It will probably still go down.)
   * Electricity. If you're not using a space designed for computers, you'll probably run into a blown breaker at some point. We'll cover avoiding this later.
   * Open all night. Again, it's a 24-hour marathon.
 
-Get a list of venues you think would be interested. See if you, or anyone you know, knows someone who works for them - a warm introduction goes a long way. Cold-calling is okay as a last resort.
+Get a list of venues you think would be interested. See if you, or anyone you know, knows someone who works for them - a warm introduction goes a long way. Otherwise, don't be afraid to cold-call! Many venues are happy to help out students who want to get involved in technology. 
 
 Once you've got someone on the phone, here are some talking points:
 
@@ -194,17 +236,23 @@ The single biggest task in planning a CodeDay is making sure people come. Studen
 
 Here's a good roadmap for early promotion.
 
-  1. Contact your friends. Get them to commit to coming. Have them buy a ticket. Offer them a discount if needed. (Never free, though. Spending any amount of money on the ticket doubles the chance they'll show up.)
+  1. Create events on Facebook, Meetup, and others. Make sure people know they need to get tickets from the CodeDay website. 
+
+  2. Identify some community leaders. This means trend-setting students, club leaders, etc. Ask them to commit to attending CodeDay. Give them a free ticket if they promise to help you promote the event on Facebook/Twitter/etc. Having these students attend ensures that their friends and others that they inspire will attend as well. 
+
+  3. Contact your friends. Go through your entire list of friends on Facebook, and message each one that you think are interested in programming, gaming, art, and entrepreneurship. 
 
   Make it clear why this is going to be amazing. Promotion works best early on when you have a group of people who love you so much that they convince other people to come as well.
 
-  2. Talk to local schools. Ask them to hand out flyers, and see if you can visit their classes to speak for 10 minutes.
+  4. Find some Facebook groups and email lists to join, and promote it on there. Examples are: CS / Programming groups, CSTA (Computer Science Teachers Association) mailing lists, FIRST Robotics, Math clubs, etc. 
+
+  5. Talk to local schools. Ask them to hand out flyers, and see if you can visit their classes to speak for 5 minutes.
 
   Emphasize the educational benefits, and see if they'll offer extra credit. Have them commit to a specific time they'll tell their students, and remind them of it. Teachers are often busy and may forget.
 
-  3. Create events on Facebook, Meetup, and others. Make sure people know they need to get tickets from your website. Offer small discounts with a short time limit.
+  6. Contact some local newspapers. They usually have contact information on their websites. 
 
-  4. Post updates on social media sites every day until the event.
+  7. Post updates on social media sites every day until the event.
 
 Speakers
 --------
@@ -219,7 +267,7 @@ Finding potential speakers is easy - just contact people from the local tech com
   * Gameplay Mechanics
   * Intro to Game Development with XNA
 
-The best talks are interactive! Participants are taking time away from their projects; as a result they get quickly impatient with lecture-style talks. Ask your speakers to model their talks after tutorials.
+The best talks are interactive! Participants are taking time away from their projects; as a result they get quickly impatient with lecture-style talks. Ask your speakers to model their talks after tutorials. 
 
 Make sure your speakers know what they're volunteering for. Here are some talking points:
 
@@ -262,7 +310,9 @@ If you choose to hold pre-event workshops, you'll need to book additional speake
 
 The Keynote
 -----------
-In addition to getting speakers for the workshops, you'll also need someone to give the **keynote** - a brief talk at the beginning of CodeDay which sets the tone and inspires everyone. You'll want to make sure your speaker is relevant to your audience, and that they're aware of the intentions of the talk.
+In addition to getting speakers for the workshops, you'll also need someone to give the **keynote** - a brief talk at the beginning of CodeDay which sets the tone and inspires everyone. You'll want to make sure your speaker is relevant to your audience, and that they're aware of the intentions of the talk. 
+
+The keynote is an important component of attracting students to a CodeDay. Someone interesting and important speaking will encourage more students to click the "register" button, tell their friends, and be excited for the event. 
 
 Judges
 ------
@@ -294,39 +344,39 @@ The following is an example of a confirmation email for a judge:
 
 Sponsorships
 ------------
-As resourceful as organizers are, CodeDay events are not *entirely* free to run.
 
-Sponsors make for awesome CodeDay events. While they're commonly seen as a way of getting giveaway prizes (and they often do donate prizes), sponsors of CodeDay have also donated money, food, the venue (see previous section) and people (volunteers/judges/speakers).
+Sponsors make for awesome CodeDay events. While many people see sponsors as a way to get extra money for an event, they'll help you in so many more ways. For example, sponsors can help provide:
 
-When speaking with a business about sponsorship, you have to keep in mind that, while the employees may care about what you're doing, the business cares only about money.
+  * Credibility (What's CodeDay? Oh, COOLCORPORATION is involved? Awesome, sounds cool!)
+  * Visibility (Helping you with PR, pushing out to their employees and social media)
+  * Money
+  * Swag & prizes
+  * Mentors
 
-The trick to landing a sponsorship is to convince them that not only is it the right thing to do, but it's also an *investment*. In most cases this is that the attendees are a potential talent pool for the company, but some companies might also be interested in extending their popularity among college and high school students (e.g. energy drink companies, social networks), or getting new developers to use their platform (i.e. any company which has a "developer evangelist").
+The only question is, why would a company want to sponsor CodeDay? Sponsoring CodeDay benefits companies in many ways: 
 
-When companies consider a sponsorship request, it's usually on the following basis:
+ * Promote their product (eg, make apps for XYZPHONE! Drink XYZDRINK! )
+ * Recruit passionate, motivated employees (eg, what's cooler than coding for 24 hours? Working for us!)
+ * Supporting the community (many adults are parents/want to have kids, and want their kids to be in a great environment)
 
-  1. *Do they have the money?* Targeting extremely fresh startups is probably not worth the time.
-  2. *Will this succees?* Luckly, CodeDay events already have a track-record of success, but it may still take some convincing that it will succeed in your city.
-  3. *How big is the event?* More people almost always leads to more interest.
+When first looking for sponsorships, put together a list of companies you want to approach. For example, you may include local companies, companies that have sponsored other CodeDay, Startup Weekends, or similar events. 
 
+If anyone you know has a connection to one of those companies, have them introduce you to them. Otherwise, call them or send an email asking for a sponsorship. Be prepared with what you want to ask them to do. It helps to have some predefined "sponsor packages" to cater to different sponsors. 
 
-Who can you ask for sponsorship? Everyone! In the past, CodeDays have been sponsored by:
+Here's some sample packages for a ~60 person event: 
 
-  * Large social networks
-  * Large game studios
-  * Tech Stores
-  * Source Control companies
-  * Game development framework companies
-  * Small startups
+Presenting Sponsor ($1,000 + prize)
+ * All of the below, plus:
+ * Be able to give a custom prize (prize is extra)
+
+Sponsor ($500)
+ * Get recognition at the CodeDay website, opening, and closing events!
+ * Put your Job Information at CodeDay!
+ * Get a list of opt-in emails from students looking for internships
+
+In-Kind Sponsor (swag, mentors, etc)
 
 The best way to get sponsorships is to find connections in your network to local companies with some relation to tech. Again, warm introductions are ideal, but cold calling is better than nothing, and works more than you might think.
-
-**TBD: Ed**
-
-The Budget
-----------
-
-**TBD: Ed/Adam**
-
 
 1-2 Months Out: Planning and More Promotion
 ========================================
@@ -336,8 +386,22 @@ Promotion
 By now you should have a fair number of speakers and sponsors lined up. Promote this! Especially if this is your first CodeDay, having professionals and companies on board gives the event more legitimacy.
 
 Food
-----
-TBD
+----------
+Budgeting is pretty simple. StudentRND will handle ticket sales & purchasing food for you, so you're not on the hook for thousands of dollars in expenses. You'll have to organize the food purchases. Most vendors will allow you to pay by phone, which we'll take care of for you. If you need to go to a grocery store (for drinks/fruit/etc), we'll reimburse you. 
+
+The venue should be donated, and none of the organizers should be paid. That means the main costs are food. 
+
+When ordering food, budget approximately: 
+
+$2.50/person for lunch (pizza works well)
+$5/person for dinner (sandwiches from Jimmy Johns or Subway)
+$0.50/person for midnight snack (cup noodles)
+$1.50/person for breakfast (fruit, muffins. For some reason, people aren't very hungry at breakfast)
+$1.50/person for drinks (approx 4 cans + 4 bottles of water per person. We LOVE Safeway Soda!)
+
+This adds up to about $12/person in expenses. 
+
+Identify where you're looking to purchase from, and talk with them to make sure they can provide food at the price you want. Sometimes, local resturaunts will sponsor free food as well. 
 
 Infrastructure
 --------------
@@ -367,7 +431,15 @@ TBD
 
 One Week Out: Get It Together
 =============================
-**Server**
+
+Marketing
+---------
+Keep promoting CodeDay! Many people buy tickets in the last week, and the prices go up right at Saturday midnight. Many people will procrastinate and buy as late as possible, so the early bird deadline is a great time to sell many many tickets! 
+
+Many people decide to wait until the last minute, so don't worry! For CodeDay February, 3 people signed up before Saturday. After Saturday, 40 students signed up. By Friday night, we sold out of all 100 tickets! 
+
+Server
+------
 
 Set up a file sharing server. The reasoning for this is two-fold:
 
@@ -387,13 +459,33 @@ As a result of number 2, you'll want to download commonly used programs onto the
 
 If you fail in this step, your network **WILL** go down for the first few hours as everyone attempts to download the tools they need.
 
+Food
+----
+Call the food vendors, and order food with the help of StudentRND. Go to your local grocery store and get breakfast and drinks. 
+
 Day Before: Collection and Setup
 =================================
 TBD
 
 Day Of
 ======
-TBD
+Start the event by giving an overview of CodeDay, then encourage students to pitch ideas for games or apps they want to build. It starts out slowly, but as soon as a few students pitch their cool ideas, more and more students will start participating. Write down these ideas. As soon as you feel like you have enough, take a straw poll (yelling or hands) to find the intriguing ideas. 
+
+Highlight the leaders of the top ideas, and then have everyone mingle and form teams. This may seem like chaos, but it tends to work out decently well. About half of the attendees show up with a group of friends in mind, and the other half will either join the existing teams, or join the ideas. 
+
+Serve pizza at this time. In the next few hours, the teams form, flesh out ideas, decide what technologies to use, and start coding. 
+
+In an hour, start the workshops. Begin with the beginner workshops. That way, the beginners have something to do while their teams start out on the ideas. 
+
+Stagger mini-events (dinner, swag giveaways, handing out soda/water, kareoke, etc) every few hours during CodeDay so that attendees feel excited and so that something's going on every once in a while. This helps with keeping students at the event and attrition low. 
+
+At 9:00, judges should arrive. Have them go around and talk with the various teams about their projects. This is to get a feel for how "real" the games/apps are. 
+
+At 10, presentations start. Each team gets 5 minutes to present about their project. Encourage everyone to present, and have a good laugh! 
+
+At 11, judges deliberate about the various projects. Help give them context and guidance on how to judge, but don't help them decide. At the same time, have all the participants help clean up. 
+
+At 11:30, present the awards and congratulate all the teams! Remind everyone that the event is over, but the connections, friendships, etc built at the event don't have to be! Encourage them to keep building cool stuff in the near future! 
 
 Post-Event
 ==========
