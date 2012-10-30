@@ -427,7 +427,20 @@ Find a computer with some extra space which won't be missed during the event. Yo
 
 Logistics
 ---------
-TBD
+
+Logistics are the glue that hold an event together, and it is very important to make sure you are not missing any.
+
+The list below covers cruicial resources that will make your CodeDay a success.
+
+* Access to Space - How are you getting access to the space? Keycard? Key? Ask and make sure it will work for you.
+* Chairs & Tables - Does your event location have chairs and tables for your event capacity? Many community centers may be able to loan you them if needed. 
+* Power - Does your location have adequate power outlits and/or power strips. If not you may need to ask a community center for power. You will need at least one outlit per person.
+* Parking - Does your event have free parking? If not how does overnight parking work? What are other options?
+* Audio and Video - For all presentations (Workshops, speakers, and project presentations) do you have a screen/projector with HDMI & VGA/audio? A microphone?
+* Documentation - Do you have someone that will take pictures? How will you record the presentations? (Laptop webcam works pretty well, should set it up with microphone though)
+* Music - Make sure to bring speakers to have some awesome tunes
+* Sleep - Not 100% necessary but if people want to sleep will there be a place for them?
+
 
 One Week Out: Get It Together
 =============================
