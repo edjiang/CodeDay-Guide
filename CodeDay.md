@@ -154,7 +154,8 @@ The Date
 The most important part of a CodeDay is the people. Unfortunately, before you can even tell people about your event, it needs to have a date and a place.
 
 How do you pick a date? Well,
-
+  
+  * Try to go for breaks: (President's Day (mid Feb), Memorial Day (late May), end-of-school/summer (June-Aug), or Veteran's day (mid Nov)). 
   * Don't compete with other tech events! Check Meetup and other local community resources, and black-out dates with competing events.
   * CodeDays are almost always on weekends, unless there's a break in school. Even then, weekends are preferrable for students who have jobs.
   * Check holiday calendars. Hosting a CodeDay during a school break has turned out extremely well, but we'd venture that it wouldn't work so well if it were on Christmas.
@@ -165,18 +166,14 @@ How do you pick a date? Well,
 The Place
 ---------
 
-Unless you have your own location (like StudentRND does in Bellevue), you'll want to get a list of possible dates, because you'll need to find a venue to work with you.
-
-Unfortunately, getting the venue is the second most-difficult part of organizing your first CodeDay. The only way to go about it is to contact lots of them. Here are some suggestions:
+While it may seem difficult, finding a venue to host CodeDay seems to be fairly straightforward. Try to contact 
 
   1. Co-working spaces and incubators/accelerators. They're usually the most flexible of any of the choices, and a good atmospheric fit.
   2. Startup offices
-  3. Corporate event spaces. They often donate them.
+  3. Corporate event spaces. 
   4. Your school. 
 
 Unless you can track down major sponsorship (and trying to do so is usually a waste of time), the venue needs to be free. So talking to conference centers and hotels is usually a waste of your time.
-
-If you're using a space from a school, make sure there aren't any hidden fees, such as security or power. "Free" isn't always free for large institutions. Also, pay attention to the rules they might impose on use.
 
 All CodeDay venues need, at a minimum:
 
