@@ -14,7 +14,7 @@ For CodeDay, I'd encourage you to rely on a word-of-mouth based strategy. If you
 Instead, this is the typical flow:
 
 1. A friend says "Hey, you should come to CodeDay with me! It's going to be really fun! :D"
-2. Register & Attend
+2. They then register & attend. 
 
 Your job as the marketer is to encourage these sorts of discussions among students, and build a community that's passionate about CodeDay. 
 
@@ -60,15 +60,63 @@ Of all social media, Facebook works the best for high school and college student
 
 Start by inviting your close friends (they *are* coming to CodeDay, aren't they?) and the influencers to join the event. After several people click "attending", go through your friends list and invite everyone you think would be interested. Ask your influencers and friends to do the same. That should start building some traction. 
 
+As soon as they're all attending, encourage them to all send invites to their friends. This will start building some momentum for your event. 
+
 ##Facebook Groups
+
+If you're part of any related Facebook Groups, post about CodeDay! 
 
 ##Outreach to other organizations
 
- * clubs
- * Csta
- * schools
- * newspapers
+After you've gotten an initial group of students going to CodeDay, start reaching out to other related organizations, and see if you can partner with them. These include: 
 
-  6. Contact some local newspapers. They usually have contact information on their websites. 
+ * High School/College Clubs
+  * Robotics Club
+  * Math Club
+  * Science Olympiad
+  * Programming Club
+  * Tech Club
+  * Computer Club
+ * Regional Organizations: 
+  * Computer Science Teacher's Association
+  * FIRST Robotics
+  * Startup Mailing Lists
+ * Schools
+  * Principals
+  * Teachers
+  * CTE Instructors
+  * University Outreach (many universities have people dedicated to outreaching to local high school students)
+  * Computer Science Departments
+ * Media
+  * Local/Regional Newpapers
+  * Local Tech Blogs
 
-  7. Post updates on social media sites every day until the event.
+Contact them, and ask them to promote CodeDay to their constituients. For the more engaged organizations, you can offer a "Media Sponsorship" -- where you put their logo on the CodeDay website & opening presentations in exchange for an email blast/etc to their constituients. That will both increase engagement from their members (because they see it "endorsed" by their organization), and give them an incentive to work with you. 
+
+##Leverage Your Sponsors' Support
+
+As soon as you get a sponsor, ask them to help you do the same! They may have a decent following on their social media, better relationships with press, industry organizations, and their employees' children may also want to attend! 
+
+It's a win-win, since they can promote their involvement, get publicity, and make sure their sponsorship is a success!
+
+##Keep doing it!
+
+It's a continuous process to make this work -- but as long as you spend some time every day to promote CodeDay, people will gradually hear about it. 
+
+##Make a huge effort at key points in time
+
+While at times, it seems like your marketing efforts aren't resulting in direct sales, many times it's still effective -- people are getting acquiainted with the brand, but don't usually buy right away.
+
+At several points in time during the process, however, it's a good idea to have a huge marketing push. These are:
+
+###The First Week
+
+In the first week after you launch the CodeDay website and launch ticket sales, you'll have $5 "Super early-bird tickets. As it's only for a limited amount of time, and a super great deal, make a huge effort to sell tickets during the time. In your Facebook posts, include clear calls to action like "buy your tickets today!" to get students to buy tickets. You can expect ~0-30% of your sales to be this week. 
+
+###The weekend before CodeDay
+
+When Sunday night ends, tickets go up from $10 to $20. Since a decent number of people are intending to go to CodeDay by then, make a huge marketing effort to get students to buy tickets. Many students that procrastinated on their ticket purchase will buy this weekend. This is a major weekend -- and you can get a decent amount of ticket sales during this week (~30-60%)
+
+###The week of
+
+During the week ofpPeople who really procrastinated (or haven't decided) finally make the decision to go to CodeDay -- and need to be reminded that it's THIS WEEKEND. You can get a decent amount of ticket sales during the week of CodeDay (~30-60%)
