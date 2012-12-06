@@ -22,9 +22,9 @@ Infrastructure
 --------------
 **Wifi**
 
-You should never need to buy Wifi access points; even if you don't have spares, someone you know probably does. (Worst case, you can get them for ~$5 at a local thrift store.) These do not need to be good, they just need to work.
+Check to make sure that the venue wifi can support 50-100 students. If they've never tested it before, you might want to ask them to ensure they have 2-4 wifi routers covering the area. If they don't, or if they're really not sure, bring extra just in case. 
 
-Track down and, if needed, get a commitment to let you borrow, at least one wifi router per 25 people at the event. People being unable to get on the internet is bad. People being unable to share files locally is *terrible*.
+If you don't have extra to bring, you can request some free enterprise-grade routers from Meraki's [event wifi](http://www.meraki.com/company/event-wifi) program. 
 
 **Ethernet**
 
@@ -33,8 +33,6 @@ There are always a few people who bring desktops to CodeDay, and there's a good 
 We recommend setting up an area of the space for people needing wired connections. (If you're extremely lucky, your venue might have a lot of jacks already, in which case this point isn't relevant.)
 
 Don't go overboard, though. In the past we've tried to provide ethernet to every participant, and in addition to being a nightmare to set up, few people used it.
-
-Count on borrowing a 16-port switch, or be very clear in your marketing that wifi is required.
 
 **Server**
 
