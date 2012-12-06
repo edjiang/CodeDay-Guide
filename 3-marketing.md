@@ -68,7 +68,7 @@ If you're part of any related Facebook Groups, post about CodeDay!
 
 ##Outreach to other organizations
 
-After you've gotten an initial group of students going to CodeDay, start reaching out to other related organizations, and see if you can partner with them. These include: 
+After you've gotten an initial group of students going to CodeDay, start reaching out to other related organizations and ask if you can partner with them. These include: 
 
  * High School/College Clubs
   * Robotics Club
@@ -78,7 +78,7 @@ After you've gotten an initial group of students going to CodeDay, start reachin
   * Tech Club
   * Computer Club
  * Regional Organizations: 
-  * Computer Science Teacher's Association
+  * Computer Science Teachers Association
   * FIRST Robotics
   * Startup Mailing Lists
  * Schools
@@ -88,10 +88,10 @@ After you've gotten an initial group of students going to CodeDay, start reachin
   * University Outreach (many universities have people dedicated to outreaching to local high school students)
   * Computer Science Departments
  * Media
-  * Local/Regional Newpapers
+  * Local/Regional Newspapers
   * Local Tech Blogs
 
-Contact them, and ask them to promote CodeDay to their constituients. For the more engaged organizations, you can offer a "Media Sponsorship" -- where you put their logo on the CodeDay website & opening presentations in exchange for an email blast/etc to their constituients. That will both increase engagement from their members (because they see it "endorsed" by their organization), and give them an incentive to work with you. 
+Contact them, and ask them to promote CodeDay to their members. For the more engaged organizations, you can offer a "Media Sponsorship" -- where you put their logo on the CodeDay website & opening presentations in exchange for promotion. That will both increase engagement from their members (because they see it "endorsed" by their organization), and give them an incentive to work with you. 
 
 ##Leverage Your Sponsors' Support
 
@@ -105,7 +105,7 @@ It's a continuous process to make this work -- but as long as you spend some tim
 
 ##Make a huge effort at key points in time
 
-While at times, it seems like your marketing efforts aren't resulting in direct sales, many times it's still effective -- people are getting acquiainted with the brand, but don't usually buy right away.
+While at times, it seems like your marketing efforts aren't resulting in direct sales, many times it's still effective -- people are getting acquainted with the brand, but don't usually buy right away.
 
 At several points in time during the process, however, it's a good idea to have a huge marketing push. These are:
 
@@ -119,4 +119,4 @@ When Sunday night ends, tickets go up from $10 to $20. Since a decent number of 
 
 ###The week of
 
-During the week ofpPeople who really procrastinated (or haven't decided) finally make the decision to go to CodeDay -- and need to be reminded that it's THIS WEEKEND. You can get a decent amount of ticket sales during the week of CodeDay (~30-60%)
+During the week of, people who really procrastinated (or haven't decided) finally make the decision to go to CodeDay -- and need to be reminded that it's THIS WEEKEND. You can get a decent amount of ticket sales during the week of CodeDay (~30-60%)
