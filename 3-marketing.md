@@ -120,3 +120,7 @@ When Sunday night ends, tickets go up from $10 to $20. Since a decent number of 
 ###The week of
 
 During the week of, people who really procrastinated (or haven't decided) finally make the decision to go to CodeDay -- and need to be reminded that it's THIS WEEKEND. You can get a decent amount of ticket sales during the week of CodeDay (~30-60%)
+
+##Good Luck!
+
+Marketing CodeDay is definitely one of the most difficult, time consuming work in organizing a CodeDay, but with some good effort, you can ensure that your CodeDay is a success!
