@@ -1,15 +1,12 @@
 #Getting Started
 
-3 Months Out: Contact Businesses
-================================
-
 Meta
 ----
 The very first thing you'll actually need to do is contact StudentRND. We'll get the website set up, get you what resources we can, and connect you with anyone we know in the area.
 
 We'll also help you run the ticket sales page and directly pay the vendors. This makes your taxes and managing money easier! 
 
-You can reach us at contact@studentrnd.org. Once that's done, you can move on to the actual work.
+You can reach us at contact@studentrnd.org, or 425-780-7901 x2. Once that's done, you can move on to the actual work.
 
 Volunteer Roles
 ---------------

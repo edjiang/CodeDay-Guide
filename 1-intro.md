@@ -1,4 +1,4 @@
-#Why You Should Host a CodeDay
+#Introduction
 
 You know what the worst part of being a student programmer is?
 
@@ -30,7 +30,7 @@ Ready to get started? Check out the table of contents on the left!
 Introduction to CodeDay
 =======================
 
-So, you've read the foreword and you're still interested in hosting a CodeDay? Awesome! It's a lot of hard work, but also a lot of fun. If you're still not 100% convinced, here are the top few reasons to organize:
+So, you've read the foreword and you're interested in hosting a CodeDay? Awesome! It's a lot of hard work, but also a lot of fun. If you're still not 100% convinced, here are the top few reasons to organize:
 
 1. Meet new friends and generally cool people; expand your network.
 2. Start a community of cool and knowledgable people who can help you out in the future.
