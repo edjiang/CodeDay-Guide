@@ -21,17 +21,4 @@ When first looking for sponsorships, put together a list of companies you want t
 
 If anyone you know has a connection to one of those companies, have them introduce you to them. Otherwise, call them or send an email asking for a sponsorship. Be prepared with what you want to ask them to do. It helps to have some predefined "sponsor packages" to cater to different sponsors. 
 
-Here's some sample packages for a ~60 person event: 
-
-Presenting Sponsor ($1,000 + prize)
- * All of the below, plus:
- * Be able to give a custom prize (prize is extra)
-
-Sponsor ($500)
- * Get recognition at the CodeDay website, opening, and closing events!
- * Put your Job Information at CodeDay!
- * Get a list of opt-in emails from students looking for internships
-
-In-Kind Sponsor (swag, mentors, etc)
-
-The best way to get sponsorships is to find connections in your network to local companies with some relation to tech. Again, warm introductions are ideal, but cold calling is better than nothing, and works more than you might think.
+(Link to sponsorship page on CodeDay website)
