@@ -1,4 +1,4 @@
-How to Market a CodeDay
+#How to Market a CodeDay
 
 CodeDay is an incredible event for students to meet other students passionate about technology. Consequently, there also aren't many existing channels for you to reach students that are passionate about technology.
 
