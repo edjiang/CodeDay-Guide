@@ -1,0 +1,99 @@
+<h1>Is it really that time?!</h1>
+<p>
+    Yes, yes it is. Dearest attendees, we are less than one day out from our beloved festival of programming, CodeDay.
+    Grab your friends, grab your laptops, and grab a ride, because it all starts tomorrow at noon!
+</p>
+<p>
+    This email will tell you everything you need to know about tomorrow. If you have any other questions, you can reply
+    to this email, or call us at (425) 780-7901.
+</p>
+
+<h1>What to Bring</h1>
+<p>
+    <strong>You don't need much, but you do need these things:</strong>
+</p>
+<ul>
+    <li>Laptop (or desktop <em>with wifi card</em>)</li>
+    <li>Any software you need! <strong>Don't waste an hour of CodeDay downloading Visual Studio or X-Code!</strong></li>
+    <li>Sleeping bag if you plan on sleeping</li>
+    <li>Ideas (optional, but you should think about it anyway)</li>
+</ul>
+
+<h1>Install Dev Tools Now!</h1>
+<p>
+    Download and install whatever enviroments you plan on using <strong>today!</strong> This was mentioned in the last
+    section, but still, every event at least a tenth of the participants waste hours downloading tools.
+</p>
+<p>
+    Install your tools today so you're not at a disadvantage tomorrow!
+</p>
+
+<h1>What to Use</h1>
+<p>
+    <strong>Beginner teams!</strong> We strongly recommend making a game in Construct. There are lots of beginner-
+    friendly tutorials online. [Plus, we'll be hosting workshops to help you get started.]
+</p>
+<p>
+    <strong>Advanced teams!</strong> Use whatever you want! There aren't any limits on the technology or what you can
+    build. (Well, there are a few. Check out <a href="http://[city].codeday.org/rules.html">the rules</a> to be sure.)
+    Just remember, if you use something really odd, there's very little chance anyone on-hand will be able to help you.
+</p>
+
+<h1>Where to Go</h1>
+<p>
+    <strong>[Venue Name]</strong><br />
+    [Venue St]<br />
+    [Venu City], [Venue State] [Venue Zip]
+</p>
+<p>
+    You do <strong>not</strong> need a ticket, we will check you in at the door by name.
+</p>
+
+[[[
+<h1>Parking (don't do it!)</h1>
+<p>
+    [Venue] does not have any public parking! If you're planning on parking, you should arrive extra early so you can
+    find on-street parking.
+</p>
+<p>
+    Better yet, take a bus! Here are some common routes which would get you there in time:
+</p>
+<ul>
+    <li>From [xyz]: Route [nnn] leaving at [nn:nn am]</li>
+</ul>
+]]]
+
+<h1>Check-in</h1>
+<p>
+    Check-in starts at 11am. You do <strong>not</strong> need your tickets, we'll check you in by name. If you gave your
+    tickets to someone else, please reply to this email posthaste so we can get him or her a proper badge.
+</p>
+<p>
+    Have friends who want to go but didn't get tickets? Call us at (425) 780-7901 and we'll let you know if we turn out
+    to have room.
+</p>
+
+<h1>Opening Ceremony</h1>
+<p>
+    The opening ceremony starts at 12 noon on the dot. Be there, you seriously won't want to miss it! After the keynote,
+    everyone with an idea for a project will get a chance to go up to the front of the room and pitch it. Then you'll
+    have some time to mingle, form a team around the ideas you like most, and then you can start coding!
+</p>
+
+<h1>Workshops</h1>
+<p>
+    The final list of workshops is on the CodeDay website! Quite often, people skip the workshops entirely. This is a
+    <em>bad idea</em>. The workshops are almost always extremely useful! Check them out if you see one that interests
+    you.
+</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>
+    We're looking forward to seeing you all tomorrow! Don't hesitate to call or email if you have any questions!
+</p>
+<p>
+    Cheers,<br />
+    The CodeDay Organizers
+</p>

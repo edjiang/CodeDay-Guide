@@ -1,4 +1,6 @@
-#Workshops and Judges
+
+Speakers, Workshops, and Judges
+===============================
 
 Speakers
 --------
