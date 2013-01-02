@@ -1,4 +1,6 @@
-#Getting Started
+
+Getting Started
+===============
 
 Meta
 ----

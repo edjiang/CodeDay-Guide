@@ -1,4 +1,6 @@
-#Introduction
+
+Introduction
+============
 
 You know what the worst part of being a student programmer is?
 
@@ -28,7 +30,7 @@ At the same time, we're constantly iterating on the CodeDay model. Your event is
 Ready to get started? Check out the table of contents on the left!
 
 Introduction to CodeDay
-=======================
+-----------------------
 
 So, you've read the foreword and you're interested in hosting a CodeDay? Awesome! It's a lot of hard work, but also a lot of fun. If you're still not 100% convinced, here are the top few reasons to organize:
 
@@ -38,8 +40,8 @@ So, you've read the foreword and you're interested in hosting a CodeDay? Awesome
 4. Gain experience organizing events.
 5. People will love you. You will become famous*.
 
-CodeDay Format
---------------
+### CodeDay Format
+
 * At CodeDay, students pitch ideas, form teams, then build a cool app or game in 24 hours. 
 * CodeDay is a open-ended event. We value freedom and flexibility. Students are free to do what they want. 
 * CodeDay is a beginner-friendly event. We expect everyone to be open to learning on their own, and ask each other for questions. 
