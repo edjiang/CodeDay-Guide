@@ -1,24 +1,75 @@
-#Facilitating a CodeDay
-
-Day Of
+Timeline
 ======
-Start the event by giving an overview of CodeDay, then encourage students to pitch ideas for games or apps they want to build. It starts out slowly, but as soon as a few students pitch their cool ideas, more and more students will start participating. Write down these ideas. As soon as you feel like you have enough, take a straw poll (yelling or hands) to find the intriguing ideas. 
+Here's a brief timeline of what should be happening at the event:
 
-Highlight the leaders of the top ideas, and then have everyone mingle and form teams. This may seem like chaos, but it tends to work out decently well. About half of the attendees show up with a group of friends in mind, and the other half will either join the existing teams, or join the ideas. 
+ | Time        | Event                                                |
+ | ----------- | ---------------------------------------------------- |
+ | 10:30am     | Doors open                                           |
+ | Noon        | Kickoff                                              |
+ | Noon-thirty | Keynote                                              |
+ | 1pm         | Start taking photos                                  |
+ | 1pm         | Pitch ideas                                          |
+ | 1:30pm      | Pizza                                                |
+ | 2pm         | Workshops start                                      |
+ | 2:30pm      | Make sure everyone has a team                        |
+ | 5pm         | Tell teams to sign up on the CodeDay site            |
+ | 5pm-ish     | Swag giveaway                                        |
+ | 8pm         | Dinner                                               |
+ | 11pm        | Team photos                                          |
+ | Midnight    | Midnight snack                                       |
+ | 2am         | Karaoke                                              |
+ | 4am         | Go around handing out soda                           |
+ | 8am         | Have teams sign up for presentations on CodeDay site |
+ | 9am         | Judges go around and talk to teams                   |
+ | 10am        | Presentations                                        |
+ | 11am        | Judges deliberate                                    |
+ | 11am        | Participants clean up                                |
+ | 11:30am     | Awards                                               |
+ | Noon        | Closing remarks                                      |
+ | Noon-thirty | Volunteers clean up                                  |
 
-Serve pizza at this time. In the next few hours, the teams form, flesh out ideas, decide what technologies to use, and start coding. 
+You might want to print this timeline and keep it somewhere central so you and your volunteers can make sure everything is on track.
+
+We'll elaborate more on these events in the following sections.
+
+Before the Event
+=================
+
+Kickoff & Keynote
+=================
+
+Start the event by giving an overview of CodeDay. This is extremely important, as many participants still don't quite know what CodeDay is, and this will set the tone for them. It's important not to make this boring, as many participants will be itching to start coding.
+
+## Talking Points
+
+TODO
+
+## Keynote
+
+If you have a keynote speaker, this is when they speak. If not, you can start the pitches early.
+
+Pitches
+=======
+
+Pitches are important because many students don't have an idea for a project prior to CodeDay.
+
+Encourage students to pitch ideas for games or apps they want to build. Students should be told that pitching an idea doesn't commit them to working on it, it doesn't have to be well-thought-out, and they can pitch as many ideas as they have.
+
+Pitches usually start out slowly, so you may want to ask some volunteers to pitch ideas ahead of time. As soon as a few students pitch their ideas, more and more students will start participating.
+
+As soon as you feel like you have enough, take a straw poll (yelling or hands) to find the intriguing ideas. Highlight the leaders of the top ideas, and then have everyone mingle and form teams over lunch.
+
+This process may seem like chaos, but it tends to work out fairly well. About half of the attendees show up with a group of friends in mind, and the other half will either join the existing teams, or join the ideas. Our attempts to bring more structure to the process have failed.
+
+Workshops
+=========
 
 In an hour, start the workshops. Begin with the beginner workshops. That way, the beginners have something to do while their teams start out on the ideas. 
 
-Stagger mini-events (dinner, swag giveaways, handing out soda/water, kareoke, etc) every few hours during CodeDay so that attendees feel excited and so that something's going on every once in a while. This helps with keeping students at the event and attrition low. 
+Throughout the event, announce the workshops shortly before they begin.
 
-At 9:00, judges should arrive. Have them go around and talk with the various teams about their projects. This is to get a feel for how "real" the games/apps are. 
 
-At 10, presentations start. Each team gets 5 minutes to present about their project. Encourage everyone to present, and have a good laugh! 
 
-At 11, judges deliberate about the various projects. Help give them context and guidance on how to judge, but don't help them decide. At the same time, have all the participants help clean up. 
-
-At 11:30, present the awards and congratulate all the teams! Remind everyone that the event is over, but the connections, friendships, etc built at the event don't have to be! Encourage them to keep building cool stuff in the near future! 
 
 ## Photos
 
@@ -121,12 +172,14 @@ Some teams, obviously, will ignore your messages. This is not inherently a bad t
 
 ### Getting ready for presentations
 
-An hour before the presentations, you should turn on "Presentation Sign-up" in your organizer console, and make an announcement for teams to register for presentations. (This is necessary because of a usual attrition during the time between team photos and presentations.) You can then use the "Presentation Schedule" function of the organizer console to get a randomized presentation schedule.
+An hour before the judges arrive, you should turn on "Presentation Sign-up" in your organizer console, and make an announcement for teams to register for presentations. (This is necessary because of a usual attrition during the time between team photos and presentations.) You can then use the "Presentation Schedule" function of the organizer console to get a randomized presentation schedule.
 
 Have teams check the schedule to make sure they're on it.
 
 Presentations
 -------------
+
+
 
 Judging
 -------
