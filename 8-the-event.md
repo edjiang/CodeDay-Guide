@@ -68,6 +68,40 @@ In an hour, start the workshops. Begin with the beginner workshops. That way, th
 
 Throughout the event, announce the workshops shortly before they begin.
 
+Energy
+======
+
+One of the biggest reasons teams at CodeDay fail to make it to presentations is that they run out of morale. In fact, this is true not just for CodeDay, but for the world as a whole. As Y Combinator's Paul Graham puts it in *How Not to Die*:
+
+ > When startups die ... the underlying cause is usually that they've become demoralized.
+ 
+The default state of a 24-hour programming experience goes something like this:
+
+![](figures/morale1.png)
+
+We've found that, at least for intervals as short as CodeDay, morale can usually be created with energy. By having mini events every few hours during the event, you can help keep attendees excited and happy:
+
+![](figures/morale2.png)
+
+Obviously, happy attendees means low attrition, high return registrants, and more recommendations. Make sure your volunteers are on the lookout for teams which seem demoralized, it's a critical part of the event which can easily go unnoticed.
+
+## Activity Suggestions
+
+Some of the activities we've found to be successful in the past:
+
+ * 2am jog
+ * soda-drinking contests
+ * picture-drawing contests
+ * free snack give-aways
+ * mini programming contests
+ * bubble tea runs
+ * karaoke
+ * swag giveaways
+ * donuts
+ * dancing
+ * large group sing-alongs
+
+Some of these activities don't work as official CodeDay activities, but you can organize smaller groups.
 
 Photos
 ======
@@ -114,11 +148,17 @@ Upon arriving at the photo location, the photographer should write the team name
 
 ### Location, location, location!
 
-Photos are best taken against some interesting point of focus at the venue (e.g. the blimp at Urban Airship) or a primary-colored wall. All the teams should be photographed at roughly the same location to give a sense of consistency. 
+All the teams should be photographed at roughly the same location to give a sense of consistency.
+
+If available, an event-specific backdrop works best for the photos. Otherwise, try to take the photos against a solid-colored wall, or other interesting backdrop. Use your artistic skill.
+
+![](figures/metal-chair-solid.jpg)
+
+![](figures/banana-phone.jpg)
 
 ### Post-processing
 
-Traditionally, CodeDay photos have been processed in Adobe Photoshop Lightroom. The exposure and color temperature are normalized between all the photos, photos are cropped if necessary (taking care to preserve aspect ratio), then the "Punch", "Film Grain (Light)", and "Vingette 2" filters are applied.
+Traditionally, CodeDay photos have been processed in Adobe Photoshop Lightroom. The exposure and color temperature are normalized between all the photos, photos are cropped if necessary (taking care to preserve aspect ratio), then the "Punch", "Film Grain (Light)", and "Vignette 2" filters are applied.
 
 Obviously, not all CodeDays will have the resources to do this, but you should strive to make the photos consistent and uniquely styled.
 
@@ -170,12 +210,6 @@ At 5pm and 10pm, and 9am, you should make an announcement to remind teams of the
 
 Some teams, obviously, will ignore your messages. This is not inherently a bad thing, since CodeDay is about programming and not profile pages. Teams which don't register on the system have tended to be the ones struggling the most, however, so you might want to talk to these teams and try to match them with mentors.
 
-## Getting ready for presentations
-
-An hour before the judges arrive, you should turn on "Presentation Sign-up" in your organizer console, and make an announcement for teams to register for presentations. (This is necessary because of a usual attrition during the time between team photos and presentations.) You can then use the "Presentation Schedule" function of the organizer console to get a randomized presentation schedule.
-
-Have teams check the schedule to make sure they're on it.
-
 Judging
 =======
 
@@ -219,3 +253,29 @@ This prevents teams from knowing they won't win an award early-on (except for th
 
 Presentations
 =============
+
+The end of the event is in sight! This is the time when your attendees will be the most excited or stressed, so make sure you do whatever you can to help.
+
+## Getting ready for presentations
+
+An hour before the judges arrive, you should turn on "Presentation Sign-up" in your organizer console, and make an announcement for teams to register for presentations. (This is necessary because of a usual attrition during the time between team photos and presentations.) You can then use the "Presentation Schedule" function of the organizer console to get a randomized presentation schedule.
+
+Have teams check the schedule to make sure they're on it.
+
+## Running the Presentations
+
+CodeDays at capacity (~120 attendees) tend to produce around 20 presentations, so make sure you budget accordingly.
+
+Have a volunteer announce the team name, and help them connect their laptop to the projector. Make sure you have the necessary cables or adapters to support HDMI, DVI, VGA, and both styles of Mac display port.
+
+Attendees should be given at most 5 minutes for the presentation. To keep the event moving, you should cut them off after 5 minutes 30 seconds. Luckly, most presentations don't go over 3 minutes, so even a large CodeDay won't go much longer than an hour. Pulling up a timer on an iPad and having a volunteer near the front of the audience is useful in cutting down presentation times.
+
+If you have few enough presentations (around 10 or less), you may want to leave time for questions from the judges or audience. For larger events, skip this - the judges should have had time to talk to the teams earlier, anyway.
+
+If you're going to be running close on time, ask teams to line up to the side when it's close to their turn, and then have the volunteer announcing teams call the next team "on deck". Teams should have their laptop open, game loaded, and ready to go. You can also have teams A/V check before the presentations start to save time.
+
+## When Something Goes Wrong
+
+Teams spend 24 hours working on a product, so it's crushing to be unable to present because of a graphics driver glitch.
+
+If a team has a technical issue with their presentation and can't resolve it quickly, have them go off-stage and fix it, then have them redo the presentation at the end.
