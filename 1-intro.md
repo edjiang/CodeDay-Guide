@@ -1,7 +1,7 @@
 Why Organize CodeDay
 ============
  
-![https://sphotos-a.xx.fbcdn.net/hphotos-prn1/857892_10151245040826332_1056117344_o.jpg]()
+![](https://sphotos-a.xx.fbcdn.net/hphotos-prn1/857892_10151245040826332_1056117344_o.jpg)
 
 You're a student passionate about technology, and you want to create a community of other passionate, motivated students around you. 
  
