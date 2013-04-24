@@ -1,20 +1,20 @@
-
-Introduction
+Why Organize CodeDay
 ============
 
-You know what the worst part of being a student programmer is?
 
-Boredom.
+ 
+<iframe width="640" height="360" src="http://www.youtube.com/embed/_ISs-R6guAE" frameborder="0" allowfullscreen></iframe>
 
-Sure, you've done some cool projects, but how many have you abandoned before they were done because you got tired of them? Most students have folders of abandoned and unfinished projects because they got bored of them.
+You're a student passionate about technology, and you want to create a community of other passionate, motivated students around you. 
+ 
+CodeDay provides an incredible opportunity for students interested in technology to collaborate, communicate, and create something awesome. It's a life changing experience for students, and we need your help to bring CodeDay to your city.
+ 
+Make no mistake: organizing a CodeDay will be a time-consuming, arduous journey. However, through the process, you'll learn to be a better communicator, leader, and make new friends. 
+ 
+Interested?
+===========
 
-Why? As Tom Cargill from Bell put it:
-
-> "The first 90% of the code accounts for 90% of the development time. The remaining 90% accounts for the other 90% of the development time."
-
-**But you're going to change that.** CodeDay turns the solitary, endless goal of producing cool code into a frenzied 24-hour sprint to the finish. It's not just about the code, though, they're fun and social events where people produce virtual things, but have a good time together in real life!
-
-A CodeDay is kind of like a party, version 2.0.
+Tell Us
 
 How To Use The Guide
 --------------------
