@@ -1,9 +1,7 @@
 Why Organize CodeDay
 ============
-
-
  
-<iframe width="640" height="360" src="http://www.youtube.com/embed/_ISs-R6guAE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/_ISs-R6guAE?rel=0" frameborder="0" allowfullscreen></iframe>
 
 You're a student passionate about technology, and you want to create a community of other passionate, motivated students around you. 
  
