@@ -1,7 +1,7 @@
 Why Organize CodeDay
 ============
  
-<iframe width="560" height="315" src="http://www.youtube.com/embed/_ISs-R6guAE?rel=0" frameborder="0" allowfullscreen></iframe>
+![https://sphotos-a.xx.fbcdn.net/hphotos-prn1/857892_10151245040826332_1056117344_o.jpg]()
 
 You're a student passionate about technology, and you want to create a community of other passionate, motivated students around you. 
  
@@ -10,35 +10,11 @@ CodeDay provides an incredible opportunity for students interested in technology
 Make no mistake: organizing a CodeDay will be a time-consuming, arduous journey. However, through the process, you'll learn to be a better communicator, leader, and make new friends. 
  
 Interested?
-===========
+-----------
 
 Tell Us
 
-How To Use The Guide
---------------------
-
-The CodeDay guide is your ultimate guide to planning and running a CodeDay event. The guide gives you a chronological overview of the work that needs to be done to ensure a fun and educational event.
-
-We suggest you skim the entire guide, and then revisit each section as the time comes.
-
-The CodeDay guide is intended to create a sort of hivemind of event organizers. We've tried a lot of things, and we know what's worked and what hasn't.
-
-At the same time, we're constantly iterating on the CodeDay model. Your event is highly situational, so you'll have to tweak as you go. And when you do, **take notes!** At the end of the event, you'll be given access to add your own information to the guide.
-
-Ready to get started? Check out the table of contents on the left!
-
-Introduction to CodeDay
------------------------
-
-So, you've read the foreword and you're interested in hosting a CodeDay? Awesome! It's a lot of hard work, but also a lot of fun. If you're still not 100% convinced, here are the top few reasons to organize:
-
-1. Meet new friends and generally cool people; expand your network.
-2. Start a community of cool and knowledgable people who can help you out in the future.
-3. Build a cool culture of hackers in your community.
-4. Gain experience organizing events.
-5. People will love you. You will become famous*.
-
-### CodeDay Format
+# The Format
 
 * At CodeDay, students pitch ideas, form teams, then build a cool app or game in 24 hours. 
 * CodeDay is a open-ended event. We value freedom and flexibility. Students are free to do what they want. 
@@ -57,6 +33,11 @@ Schedule: Noon-Noon.
 * 9AM: Judges walk around
 * 10AM: Presentations
 * 11:30AM: Awards
+
+Workshops: 
+* 2PM: Build A Game (for non-programmers)
+* 3PM: Intro to App Development (for programmers)
+* 4PM: Pizza & Form Teams
 
 Prizes: 
 * Top Overall
