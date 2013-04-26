@@ -1,14 +1,21 @@
-Marketing CodeDay
-=================
+#Marketing
 
 CodeDay is an incredible event for students to meet other students passionate about technology. Consequently, there also aren't many existing channels for you to reach students that are passionate about technology.
 
 Finding and building a community of students excited about CodeDay will be the most difficult and time-consuming aspect of planning a CodeDay. At the same time, it's the most rewarding -- once you get to CodeDay and see the huge crowd, you know it's all worth it. 
 
-Strategy
---------
+###Marketing Targets (for a 50-100 person event)
 
-For CodeDay, we encourage you to rely on a word-of-mouth based strategy. If you think about it, most students don't do this:
+Keep your eye on these targets. If you aren't hitting these targets, you're behind and *need* to increase your marketing campaign. 
+
+* (T-1 Month): 5-10 tickets sold
+* (T-2 Weeks): 10-20 tickets sold
+* (T-1 Week): 30-60 tickets sold
+* (T): 50-100 tickets sold
+
+##Strategy
+
+For CodeDay, we encourage you to rely on a word-of-mouth based strategy. If you think about it, most students don't:
 
 1. Get email or Facebook invite to CodeDay
 2. Register & Attend
@@ -20,7 +27,7 @@ Instead, this is the typical flow:
 
 Your job as the marketer is to encourage these sorts of discussions among students, and build a community that's passionate about CodeDay. 
 
-### The Typical Pitch
+###The Typical Pitch
 
 CodeDay is a relatively new event, and many students are unfamiliar with the format. This means that you'll need to pitch it in a different way to traditional events. That means, instead of:
 
@@ -42,12 +49,11 @@ It works better like this:
 
 >"Ok, sounds like fun! I'll get a ticket!" 
 
-Getting Started
----------------
+###Getting Started
 
 As soon as you secure your venue, you should start promoting CodeDay. Here's some things to get started with:
 
-### Identify Key Influencers
+###Identify Key Influencers
 
 The first step, is really to identify key influencers. These could be people in your school, and other schools that you know influence other students. (eg, if they do something, 5 other students do something). For example: 
 
@@ -57,7 +63,7 @@ The first step, is really to identify key influencers. These could be people in 
 
 Then, approach them and pitch CodeDay to them. Ask them to help you make CodeDay a success by attending, and encouraging their friends to attend. 
 
-### Create a Facebook Event & Website
+###Create a Facebook Event & Website
 
 Of all social media, Facebook works the best for high school and college students. Start by creating a Facebook event. This could be on the StudentRND page (with the help of StudentRND staff), or on your personal wall. Make sure that you link to your CodeDay website!
 
@@ -65,7 +71,7 @@ Start by inviting your close friends (they *are* coming to CodeDay, aren't they?
 
 As soon as they're all attending, encourage them to all send invites to their friends. This will start building some momentum for your event. 
 
-### Facebook Groups
+###Facebook Groups
 
 If you're part of any related Facebook Groups, post about CodeDay! 
 
@@ -73,26 +79,26 @@ If you're part of any related Facebook Groups, post about CodeDay!
 
 After you've gotten an initial group of students going to CodeDay, start reaching out to other related organizations and ask if you can partner with them. These include: 
 
- * High School/College Clubs
-   * Robotics Club
-   * Math Club
-   * Science Olympiad
-   * Programming Club
-   * Tech Club
-   * Computer Club
- * Regional Organizations: 
-   * Computer Science Teachers Association
-   * FIRST Robotics
-   * Startup Mailing Lists
- * Schools
-   * Principals
-   * Teachers
-   * CTE Instructors
-   * University Outreach (many universities have people dedicated to outreaching to local high school students)
-   * Computer Science Departments
- * Media
-   * Local/Regional Newspapers
-   * Local Tech Blogs
+* High School/College Clubs
+ * Robotics Club
+ * Math Club
+ * Science Olympiad
+ * Programming Club
+ * Tech Club
+ * Computer Club
+* Regional Organizations: 
+ * Computer Science Teachers Association
+ * FIRST Robotics
+ * Startup Mailing Lists ("Seattle Tech", etc)
+* Schools
+ * Principals
+ * Teachers
+ * CTE Instructors
+ * University Outreach (many universities have people dedicated to outreaching to local high school students)
+ * Computer Science Departments
+* Media
+ * Local/Regional Newspapers
+ * Local Tech Blogs
 
 Contact them, and ask them to promote CodeDay to their members. For the more engaged organizations, you can offer a "Media Sponsorship" -- where you put their logo on the CodeDay website & opening presentations in exchange for promotion. That will both increase engagement from their members (because they see it "endorsed" by their organization), and give them an incentive to work with you. 
 
@@ -106,26 +112,10 @@ It's a win-win, since they can promote their involvement, get publicity, and mak
 
 It's a continuous process to make this work -- but as long as you spend some time every day to promote CodeDay, people will gradually hear about it. 
 
-Key Points in Time
-------------------
+#CodeDay War Room
 
-While at times, it seems like your marketing efforts aren't resulting in direct sales, many times it's still effective -- people are getting acquainted with the brand, but don't usually buy right away.
+Read [How to Organize a “Social Media War Room” and Rule the Internet for a Day](http://blog.evenues.com/post/2012/02/23/How-to-Organize-a-%E2%80%9CSocial-Media-War-Room%E2%80%9D-and-Rule-the-Internet-for-a-Day.aspx). Get together and promote CodeDay in one group of organizers! Do this one month and one week before CodeDay. 
 
-At several points in time during the process, however, it's a good idea to have a huge marketing push. These are:
-
-### The First Week
-
-In the first week after you launch the CodeDay website and launch ticket sales, you'll have $5 "Super early-bird tickets. As it's only for a limited amount of time, and a super great deal, make a huge effort to sell tickets during the time. In your Facebook posts, include clear calls to action like "buy your tickets today!" to get students to buy tickets. You can expect ~0-30% of your sales to be this week. 
-
-### The weekend before CodeDay
-
-When Sunday night ends, tickets go up from $10 to $20. Since a decent number of people are intending to go to CodeDay by then, make a huge marketing effort to get students to buy tickets. Many students that procrastinated on their ticket purchase will buy this weekend. This is a major weekend -- and you can get a decent amount of ticket sales during this week (~30-60%)
-
-### The week of
-
-During the week of, people who really procrastinated (or haven't decided) finally make the decision to go to CodeDay -- and need to be reminded that it's THIS WEEKEND. You can get a decent amount of ticket sales during the week of CodeDay (~30-60%)
-
-Good Luck!
-----------
+##Good Luck!
 
 Marketing CodeDay is definitely one of the most difficult, time consuming work in organizing a CodeDay, but with some good effort, you can ensure that your CodeDay is a success!
