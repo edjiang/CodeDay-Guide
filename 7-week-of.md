@@ -39,11 +39,7 @@ The easiest way to do check-in is by pre-printing badges for all your attendees 
 
 Badges are also awesome because they help new people remember names of people they just met.
 
-You can pick up a 160-pack of self-adhesive Laser/Inkjet badges for around $25 at Staples. If you're going this route, design a template in Word, and mail-merge a CSV of attendees from Eventbrite. (The CodeDay admin site will eventually automate this.)
-
-You can also hand-write the badges, either the night before, or at the door.
-
-Having color-coded badges is also very helpful. We prefer to use red for attendees, green for volunteers, and blue for mentors, sponsors, speakers, and judges.
+You can pick up a pack of self-adhesive "Hello My Name is" badges for around $5 at an office supply store.
 
 Food
 ----
