@@ -22,6 +22,6 @@ Three months before the date, you should be focused on getting several volunteer
 
 This month, you'll spend most of your time setting and confirming details about the CodeDay. You'll be confirming the keynote presenter, workshops, and additional sponsors. Finally, you'll start to prepare for the marketing effort for the next month. 
 
-* (T-1 month) Marketing CodeDay!
+###(T-1 month) Marketing CodeDay!
 
 This will be the most time consuming month. Thankfully, you only need to think about one thing: marketing CodeDay, and getting students to hear about the next event. Ask influential people to broadcast CodeDay, speak at local schools, post on Facebook & email lists, and more! Do everything you can to make students attend, and the event will be a success! 
