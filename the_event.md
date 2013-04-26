@@ -1,4 +1,3 @@
-
 The Event
 =========
 
@@ -8,7 +7,7 @@ Here's a brief timeline of what should be happening at the event:
 
  Time         Event
  -----------  ----------------------------------------------------
- 10:30am      Doors open
+ 11:30am      Doors open
  Noon         Kickoff
  Noon-thirty  Keynote
  1pm          Start taking photos
@@ -39,7 +38,7 @@ We'll elaborate more on these events in the following sections.
 Before the Event
 ----------------
 
-You'll want to open the doors around 10:30am, since that's the time attendees usually start showing up. Make sure to have the check-in table staffed until at least 1pm.
+You'll want to open the doors around 11:30am, since that's the time attendees usually start showing up. Make sure to have the check-in table staffed until at least 1pm.
 
 If your venue has a front door which requires a key-code or badge to open, have a volunteer waiting at the door until you shut down the check-in table, too. (At which time you should put up a sign with several volunteers' phone numbers.)
 
@@ -49,18 +48,17 @@ Chat with people who look nervous or uncertain about the event, and try to answe
 Kickoff & Keynote
 -----------------
 
-Start the event by giving an overview of CodeDay. This is extremely important, as many participants still don't quite know what CodeDay is, and this will set the tone for them. It's important not to make this boring, as many participants will be itching to start coding.
+Start the event by giving an overview of CodeDay. This is extremely important, as many participants still don't quite know what CodeDay is, and this will set the tone for them. It's important not to make this boring, as many participants will be itching to start coding. You can use the [CodeDay Intro Video](http://www.youtube.com/watch?v=_ISs-R6guAE) to introduce CodeDay. 
 
-### Talking Points
+###Sponsor Presentations
 
-TODO
+Thank the sponsors for making the event possible. Invite the Supporting & Presenting Sponsors to stage to speak for their allotted time. 
 
-### Keynote
+###Keynote
 
-If you have a keynote speaker, this is when they speak. If not, you can start the pitches early.
+Invite the Keynote Presenter to the stage. Have them talk for 10 minutes or so, and encourage them to take questions if there's time. 
 
-Pitches
--------
+###Pitches
 
 Pitches are important because many students don't have an idea for a project prior to CodeDay.
 
