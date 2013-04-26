@@ -21,3 +21,12 @@ Once you've got someone on the phone or email, be sure to:
 It may take some time, so even though a company says "we may be able to give you a space", keep looking until you get a yes. 
 
 Once you get a yes, you're finished with one of the most important steps in organizing your CodeDay: getting a venue! 
+
+###Space Checklist
+
+Make sure your space has, or prepare to bring: 
+
+* Enough chairs and tables
+* Power outlets and extension strips
+* A Projector
+* Speakers for music (this is very important!)
