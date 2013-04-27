@@ -1,6 +1,8 @@
 The Event
 =========
 
+The event will be the most hectic part of organizing an event -- but don't worry! We sent a facilitator to your event to help run the event smoothly. They'll take care of running most of the event; just make sure your staff is there to support the facilitator. Here's a guide for reference: 
+
 Timeline
 --------
 Here's a brief timeline of what should be happening at the event:
