@@ -1,7 +1,4 @@
-Workshops and Judges
-===============================
-
-##Workshops
+#Workshops and Judges
 
 CodeDay is about learning and having fun. A lot of the learning by doing, but students still love the serendipity of listening to tech talks.
 
@@ -17,7 +14,7 @@ Consequently, we have the following structure for talks at CodeDay:
 * 3PM: Introduction to App/Game Development
 * 4PM and later: Sponsor Presentations
 
-##2PM: Build a Game without Coding Experience
+###2PM: Build a Game without Coding Experience
 
 The 2PM workshop is a workshop on building a game without coding experience. You can have an intermediate/advanced programmer (even a student) teach this workshop, as it's pretty simple.
 
@@ -25,7 +22,7 @@ We use a tool called [Construct 2](https://www.scirra.com/construct2), which all
 
 It's a great way to get students started, and there are plenty of extra tutorials on the Scirra site, so that you can encourage students to spend the rest of the 24 hour period learning and building something they think is awesome! 
 
-##3PM: Introduction to App/Game Development
+###3PM: Introduction to App/Game Development
 
 The 3PM workshop takes students who have taken programming courses and walks them through the basics of building an app or game. We don't have a defined course for this event just yet, but you can choose among the following suggestions:
 
@@ -34,17 +31,17 @@ The 3PM workshop takes students who have taken programming courses and walks the
 * Introduction to iOS development
 * Introduction to Android development
 
-##4PM and later: Sponsor Presentations
+###4PM and later: Sponsor Presentations
 
 These slots are reserved for sponsors. You may organize more classes with permission from the StudentRND organizers. However, it isn't recommended that you do so. After 6-7PM or so, students lose interest in presentations and want to work on their projects during CodeDay. 
 
-#The Keynote
+##The Keynote
 
 In addition to getting speakers for the workshops, you'll also need someone to give the **keynote** - a brief talk at the beginning of CodeDay which sets the tone and inspires everyone. You'll want to make sure your speaker is relevant to your audience, and that they're aware of the intentions of the talk. 
 
 The keynote is an important component of attracting students to a CodeDay. Someone interesting and important speaking will encourage more students to click the "register" button, tell their friends, and be excited for the event. 
 
-#Judges
+##Judges
 
 CodeDay is a competition, and a competition needs winners. A expert panel of judges goes a long way to boosting the legitimacy of the competition, and helps participants feel like they were treated fairly.
 
