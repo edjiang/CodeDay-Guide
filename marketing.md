@@ -112,7 +112,7 @@ It's a win-win, since they can promote their involvement, get publicity, and mak
 
 It's a continuous process to make this work -- but as long as you spend some time every day to promote CodeDay, people will gradually hear about it. 
 
-#CodeDay War Room
+###CodeDay War Room
 
 Read [How to Organize a “Social Media War Room” and Rule the Internet for a Day](http://blog.evenues.com/post/2012/02/23/How-to-Organize-a-%E2%80%9CSocial-Media-War-Room%E2%80%9D-and-Rule-the-Internet-for-a-Day.aspx). Get together and promote CodeDay in one group of organizers! Do this one month and one week before CodeDay. 
 
