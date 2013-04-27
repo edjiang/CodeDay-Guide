@@ -5,31 +5,32 @@ Timeline
 --------
 Here's a brief timeline of what should be happening at the event:
 
- Time         Event
- -----------  ----------------------------------------------------
- 11:30am      Doors open
- Noon         Kickoff
- Noon-thirty  Keynote
- 1pm          Start taking photos
- 1pm          Pitch ideas
- 1:30pm       Pizza
- 2pm          Workshops start
- 2:30pm       Make sure everyone has a team
- 5pm          Tell teams to sign up on the CodeDay site
- 5pm-ish      Swag giveaway
- 8pm          Dinner
- 11pm         Team photos
- Midnight     Midnight snack
- 2am          Karaoke
- 4am          Go around handing out soda
- 8am          Have teams sign up for presentations on CodeDay site
- 9am          Judges go around and talk to teams
- 10am         Presentations
- 11am         Judges deliberate
- 11am         Participants clean up
- 11:30am      Awards
- Noon         Closing remarks
- Noon-thirty  Volunteers clean up
+    Time         Event
+    -----------  ----------------------------------------------------
+    11:30am      Doors open
+    Noon         Kickoff
+    Noon-thirty  Keynote
+    1pm          Start taking photos
+    1pm          Pitch ideas
+    1:30pm       Pizza
+    2pm          Workshops start
+    2:30pm       Make sure everyone has a team
+    5pm          Tell teams to sign up on the CodeDay site
+    5pm-ish      Swag giveaway
+    7pm          Dinner
+    11pm         Team photos
+    Midnight     Midnight snack
+    2am          Karaoke
+    4am          Go around handing out soda
+    7am          Breakfast
+    8am          Have teams sign up for presentations on CodeDay site
+    9am          Judges go around and talk to teams
+    10am         Presentations
+    11am         Judges deliberate
+    11am         Participants clean up
+    11:30am      Awards
+    Noon         Closing remarks
+    Noon-thirty  Volunteers clean up
 
 You might want to print this timeline and keep it somewhere central so you and your volunteers can make sure everything is on track.
 
